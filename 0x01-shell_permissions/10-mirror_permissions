@@ -1,2 +1,2 @@
 #!/bin/bash
-chmode --reference=ollen hello
+chmod --reference=ollen hello
